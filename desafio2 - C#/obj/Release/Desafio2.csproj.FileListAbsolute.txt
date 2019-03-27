@@ -1,0 +1,6 @@
+C:\Users\hiarg\Desktop\outros cursos\desafio\desafio2 - C#\bin\Release\Desafio2.exe.config
+C:\Users\hiarg\Desktop\outros cursos\desafio\desafio2 - C#\bin\Release\Desafio2.exe
+C:\Users\hiarg\Desktop\outros cursos\desafio\desafio2 - C#\bin\Release\Desafio2.pdb
+C:\Users\hiarg\Desktop\outros cursos\desafio\desafio2 - C#\obj\Release\Desafio2.csproj.CoreCompileInputs.cache
+C:\Users\hiarg\Desktop\outros cursos\desafio\desafio2 - C#\obj\Release\Desafio2.exe
+C:\Users\hiarg\Desktop\outros cursos\desafio\desafio2 - C#\obj\Release\Desafio2.pdb
